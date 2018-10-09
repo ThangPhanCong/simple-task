@@ -10,7 +10,7 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   display: flex;
-  height: 34px;
+  height: 74px;
   background-color: #FFF;
   color: #000;
   box-shadow: rgba(50, 50, 93, 0.1) 0px 2px 4px 0px;
